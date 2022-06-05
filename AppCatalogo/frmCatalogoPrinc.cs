@@ -30,5 +30,10 @@ namespace AppCatalogo
             frmmenu menu = new frmmenu();
             menu.ShowDialog();
         }
+
+        private void labeltitulo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

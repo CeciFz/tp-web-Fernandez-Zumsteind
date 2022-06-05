@@ -54,6 +54,7 @@
             this.labeltitulo.BackColor = System.Drawing.Color.Transparent;
             this.labeltitulo.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.labeltitulo.Name = "labeltitulo";
+            this.labeltitulo.Click += new System.EventHandler(this.labeltitulo_Click);
             // 
             // btnAdministrar
             // 

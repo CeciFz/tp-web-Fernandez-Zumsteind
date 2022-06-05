@@ -11,7 +11,7 @@ namespace TPWeb_Fernandez_Zumsteind
 {
 
 
-    public partial class _default
+    public partial class administrar
     {
     }
 }
