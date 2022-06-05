@@ -67,18 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Articulos.aspx" />
+    <Content Include="catalogo.aspx" />
+    <Content Include="Content\Style.css" />
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Articulos.aspx.cs">
-      <DependentUpon>Articulos.aspx</DependentUpon>
+    <Compile Include="catalogo.aspx.cs">
+      <DependentUpon>catalogo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Articulos.aspx.designer.cs">
-      <DependentUpon>Articulos.aspx</DependentUpon>
+    <Compile Include="catalogo.aspx.designer.cs">
+      <DependentUpon>catalogo.aspx</DependentUpon>
     </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
