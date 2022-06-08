@@ -27,7 +27,7 @@
                       <a class="nav-link" href="/Articulos.aspx" style="color:white" style="color:white">Artículos</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#" style="color:white">Mi carrito</a>
+                      <a class="nav-link" href="/carrito.aspx" style="color:white">Mi carrito</a>
                     </li>
                   </ul>
                 </div>
